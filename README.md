@@ -42,9 +42,7 @@ Finally, a simple Shiny app has been built. It allows visualization of the most 
 
 ![shiny app demo](https://i.imgur.com/evFncFk.gif)
 
-In view of this, `<SQL>` is easily identified as the most demanded skill in Spanish Data Science jobs, as it is explicitly requested in 56.1% of the analyzed offers. It is closely followed by another hard skill, `<Python>`, at 52.0%. Much further back is another well-known statistical programming language, `<R>`, which is listed in almost one in three offers. These results also highlight the importance of soft skills, such as communication. This is emphasized by 39.5% of advertisers, as well as a good command of English, which is required for almost half of the positions.
-
-```
+In view of this, `SQL` is easily identified as the most demanded skill in Spanish Data Science jobs, as it is explicitly requested in 56.1% of the analyzed offers. It is closely followed by another hard skill, `Python`, at 52.0%. Much further back is another well-known statistical programming language, `R`, which is listed in almost one in three offers. These results also highlight the importance of soft skills, such as communication. This is emphasized by 39.5% of advertisers, as well as a good command of English, which is required for almost half of the positions.
 
 ## Contact
 * [LinkedIn](https://www.linkedin.com/in/auad1/).  
