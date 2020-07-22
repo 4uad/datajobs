@@ -1,0 +1,67 @@
+.icon-list-item {
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+
+.multi-wrapper > div, .multi-wrapper > input {
+  background-color: transparent !important;
+}
+
+.multi-wrapper * {
+  color: #ebebeb !important;
+}
+
+.multi-wrapper * a:hover {
+  background: #df691a !important;
+}
+
+.form-group.shiny-input-container {
+  width: auto !important;
+}
+
+.filter-panel {
+  position: fixed;
+  bottom: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+  transition: transform 1s ease;
+}
+
+.filter-panel * h3 {
+  display: inline-block;
+  padding: 5px 20px 5px 5px;
+  background-color: #4e5d6c;
+  margin-bottom: -1px;
+  border-radius: 7px 7px 0 0;
+  cursor: pointer;
+}
+
+body {
+  overflow: hidden;
+  background-color: white;
+}
+
+body div:first-child {
+  background-color: #4e5d6c;
+}
+
+.filter-panel > .row {
+  background-color: #4e5d6c;
+}
+
+.filter-panel .row:first-of-type {
+  background-color: transparent;
+}
+
+.filter-panel .row:nth-of-type(2) {
+  border-radius: 0 5px 0 0;
+}
+
+.filter-panel.filteroff {
+  transform: translateY(calc(100% - 65px));
+}
+
+img {
+  max-height: 100vh;
+}
